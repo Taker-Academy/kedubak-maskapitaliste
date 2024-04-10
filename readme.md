@@ -58,7 +58,7 @@ Au fur et à mesure que vous compléterez votre API, vous verrez le site s'amél
 - Je peux créer un compte sur le site
 - Je peux me connecter à mon compte sur le site.
 - Je peux voir mes informations sur le site, dans la page "Profile".
-- Je peux modifier mes informations sur le site, dans la page "Profile".
+- Je peux modifier mes informations sur le Rsite, dans la page "Profile".
 - Je peux supprimer mon compte sur le site, dans la page "Profile".
 - J'ai accès la liste de tous mes posts dans la section "My Posts" dans la page "Profile".
 - Je peux voir la listes des posts triés par ordre de date, le plus récent en premier, dans la page "Forum".
